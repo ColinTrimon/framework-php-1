@@ -1,6 +1,5 @@
 <?php
 
-function index()
-{
-	render("home/index");	
+function index(){
+	render("calendar/index");
 }
